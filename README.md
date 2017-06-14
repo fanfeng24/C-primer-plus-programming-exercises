@@ -1,1 +1,1 @@
-# CPP-primer-plus-exercises
+Exercises from C++ Primer Plus, 6th Edition, by Stephen Prata.
